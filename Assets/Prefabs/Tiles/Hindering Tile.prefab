@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4737736270211626473
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2798913748850394467, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_Name
+      value: Hindering Tile
+      objectReference: {fileID: 0}
+    - target: {fileID: 5780509605220793829, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_Color.a
+      value: 0.19607843
+      objectReference: {fileID: 0}
+    - target: {fileID: 5780509605220793829, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_Color.b
+      value: 0.52020156
+      objectReference: {fileID: 0}
+    - target: {fileID: 5780509605220793829, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_Color.g
+      value: 0.5113207
+      objectReference: {fileID: 0}
+    - target: {fileID: 5780509605220793829, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2.00375
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2.00375
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.0150003
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -7.9750004
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6861981929107700963, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2798913748850394467, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: -2624714801553936129}
+  m_SourcePrefab: {fileID: 100100000, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+--- !u!212 &1263168252513191948 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 5780509605220793829, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+  m_PrefabInstance: {fileID: 4737736270211626473}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &2145636249419821464 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6663364570048627825, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+  m_PrefabInstance: {fileID: 4737736270211626473}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &7451327839399178378 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2798913748850394467, guid: 389a40555769ebb4b9a76dbb6f2248b5, type: 3}
+  m_PrefabInstance: {fileID: 4737736270211626473}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &-2624714801553936129
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7451327839399178378}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17c7991051544404da07a35b63d54f2f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TileName: Hindering
+  x: 4
+  y: 2
+  _renderer: {fileID: 1263168252513191948}
+  _highlight: {fileID: 2145636249419821464}
+  _isWalkable: 1
+  OccupiedUnit: {fileID: 0}
